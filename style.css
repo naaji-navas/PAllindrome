@@ -12,11 +12,11 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #AA57CC;
+  background: #e5e4e6;
 }
 ::selection{
   color: #fff;
-  background: rgb(170,87,204,0.8);
+  background: rgba(25, 20, 27, 0.8);
 }
 .wrapper{
   max-width: 500px;
@@ -68,7 +68,7 @@ header p{
   margin-top: 20px;
   border-radius: 5px;
   pointer-events: none;
-  background: #AA57CC;
+  background: #3d373f;
   transition: opacity 0.15s ease;
 }
 .inputs button.active{
